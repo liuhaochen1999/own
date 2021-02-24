@@ -2,4 +2,4 @@ Git is eazy
 gti is "VW" car
 添加新的分支操作
 dev内的分支操作
-这是一次main分支的添加操作
+creating a new branch is quick and simple
